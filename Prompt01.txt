@@ -1,1 +1,2 @@
-Lee `AGENTS.md` y haz un plan llevar a cabo la primera task.
+Lee `AGENTS.md` y haz un plan llevar a cabo todas las tareas usando React, Vite, Bun y Tanstack(router,query...).
+Usa esta API: https://www.freetogame.com/api/games
